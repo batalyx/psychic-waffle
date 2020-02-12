@@ -1,4 +1,4 @@
 /* näin kissa istuu */
-function kissan_istutus() {
+function kissanIstutus() {
     return "Kissa on Istuva!";
 }
