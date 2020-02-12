@@ -1,4 +1,4 @@
 function kissan_istutus() {
-    return "istuva kissa";
+    return "kissa istuu";
 }
 
