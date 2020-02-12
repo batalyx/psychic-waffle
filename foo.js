@@ -1,5 +1,5 @@
 /* näin kissa istuu */
-function kissan_istutus() {
+function kissanIstutus() {
     return "Istuva on Kissa!";
 }
 
